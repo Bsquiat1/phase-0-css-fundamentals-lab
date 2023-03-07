@@ -3,3 +3,10 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{text-align: center;}
+img{display: block;margin: auto;}
+nav{text-align: center;}
+nav a{display: inline-block;padding: 10px;background-color: beige;color: rgb(13, 12, 12);}
+img{display:block;margin: auto;}
+figcaption{text-align: center;font-size: 14px;}
+#featured-ptoMake our #details section horizontal: The details section could go nicely as a footer to the page, instead of a vertical list. To do this, make each of the <div>s float to the left.perty p{width: 800px;margin:20px auto;text-align: center;}
